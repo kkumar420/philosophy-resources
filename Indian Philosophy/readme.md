@@ -11,3 +11,4 @@ The available notes cover the following chapters:
 - **Chapter 11:** Vaiśeṣika
 - **Chapter 12:** Nyāya
 - **Chapter 13:** Pūrva Mīmāṃsā
+- **Chapter 14:** Pre-Shankara Vedanta
