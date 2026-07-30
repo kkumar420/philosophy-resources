@@ -12,3 +12,6 @@ The available notes cover the following chapters:
 - **Chapter 12:** Nyāya
 - **Chapter 13:** Pūrva Mīmāṃsā
 - **Chapter 14:** Pre-Shankara Vedanta
+- **Chapter 15:** Shankara Vedanta
+    - **Part 1**
+    - **Part 2**
