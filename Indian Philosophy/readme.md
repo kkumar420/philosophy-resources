@@ -1,3 +1,5 @@
+## Indian Philosophy Notes
+
 These are notes prepared by an LLM from C.D. Sharma's A Critical Survey of Indian Philosophy. These are to be read as a subtitute for the book itself, as they present what Sharma says in a more structured and reader friendly way without compromising on philosophical depth.
 
 The available notes cover the following chapters:
