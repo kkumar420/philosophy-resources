@@ -17,3 +17,4 @@ The available notes cover the following chapters:
 - **Chapter 15:** Shankara Vedanta
     - **Part 1**
     - **Part 2**
+- **Chapter 17:** Buddhism and Vedanta
